@@ -9,4 +9,4 @@ spec:
     - name: nodeapp
       image: bcsprakash/nginxnew
       ports:
-        - containerPort: 8080
+        - containerPort: 8080 
